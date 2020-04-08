@@ -29,5 +29,5 @@ describe "User sign up, log in, sign out" do
       click_link('Log In')
     end
 
-
+end 
 end
